@@ -1,0 +1,14 @@
+interface:
+  display_name: "BRINGPPT｜薄云PPT生成器"
+  short_description: "用91模板将确认大纲/storyboard生成BRING/薄云风格PPTX"
+  default_prompt: "Use $bringppt to convert this confirmed outline or storyboard into a BRING/薄云 branded PPTX and run QA."
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+  brand_color: "#003591"
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

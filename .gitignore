@@ -1,0 +1,8 @@
+﻿node_modules/
+_smoke/
+_test*/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
